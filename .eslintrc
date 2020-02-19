@@ -1,0 +1,12 @@
+{
+  "extends": "airbnb-base",
+  "env": {
+    "jest": true
+  },
+  "rules": {
+    "linebreak-style": ["warn", "windows"],
+    "indent": ["warn", 4],
+    "operator-linebreak": ["error", "after"],
+    "no-unused-vars": "off"
+  }
+}
