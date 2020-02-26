@@ -6,7 +6,8 @@ Nesse repositório existem alguns problemas para testar seus conhecimentos bási
 Quando finalizar envie-nos o código fonte para avaliação!
 
 #### Destaques
+- O teste é composto por 3 desafios! Faça o máximo que conseguir mas não se preocupe se não conseguir entregar todos, levaremos em conta mais fatores do que simplesmente a solução em si.
 - A estrutura inicial está em JavaScript (NodeJS), mas fique à vontade para resolver na liguagem em que você se sinta mais confiante
-- Busque escrever um código inteligível e performático
+- Performance é um fator importante, considere como sua solução se comporta para casos extremos. (Um benchmark de tempo de resposta é 5 segundos, mais do que isso pense em otimizar)
 - Posteriormente vamos discutir os pontos revelantes da sua implementação
-- Se atente ao prazo de entrega
+- Se atente ao prazo de entrega (1 semana após o recebimento do email)
